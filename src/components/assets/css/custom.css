@@ -1,0 +1,9 @@
+
+/* ------------ For React Table ------------ */
+
+.rt-resizable-header-content{
+    padding: 18px;
+    background: #f8f8f9;
+    font-weight: bold;
+    color: #313131;
+}
